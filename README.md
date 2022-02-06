@@ -1,7 +1,9 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis:
-The purpose of this analysis was to use the SQL Database from Pewlett-Hackard company to find HR insights. The SQL analysis found the number of retiring employees by title and a list of employees eligible for the new mentorship program. 
+The purpose of this analysis was to use the SQL Database from Pewlett-Hackard company to find HR insights. The SQL analysis found the number of retiring employees by title and a list of employees eligible for the new mentorship program. Below is a visualization of the entity-relationship diagram (ERD).
+
+![EDR](https://raw.githubusercontent.com/jmsuarez1997/Pewlett-Hackard-Analysis/main/EmployeeDB.png)
 
 ## Results:
 
